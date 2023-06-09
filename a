@@ -10,3 +10,8 @@ git clone https://github.com/AftabnGit/abcd.git
 cd abcd
 npm install
 node index.js
+
+----------
+etc/nginx/sites-available/
+sudo nano default 
+sudo systemctl restart nginx
